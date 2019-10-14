@@ -7,26 +7,26 @@ $ sudo apt-get install swish-e
 
 
 
-2.	Konfigurasi Swish-e
--	membuat file konfigurasi swish-e untuk indexing
-$ touch crawling.conf
+2.	Konfigurasi Swish-e  
+-	membuat file konfigurasi swish-e untuk indexing  
+$ touch crawling.conf  
 
 
--	menulis file konfigurasi yang telah dibuat sebelumnya
-$ pico crawling.conf
+-	menulis file konfigurasi yang telah dibuat sebelumnya  
+$ pico crawling.conf  
 
 
--	menjalankan swish-e
-$ swish-e –c crawling.conf
-
-
-
+-	menjalankan swish-e  
+$ swish-e –c crawling.conf  
 
 
 
 
--	search word
-$ swish-e –f hasil_index.swish-e –w abstrak
+
+
+
+-	search word  
+$ swish-e –f hasil_index.swish-e –w abstrak  
 
 
 

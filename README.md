@@ -1,7 +1,7 @@
 # Text-Indexing
 
 1. Persiapan konfigurasi Swish-e untuk indexing
-install swish-e di computer
+install swish-e di computer 
 $ sudo apt-get install –y swish-e
 $ sudo apt-get install swish-e
 
